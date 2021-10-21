@@ -4,8 +4,10 @@
 
 ### Jogos
 
-[Porã, quem sou eu?](/https://swehtam.itch.io/pora)
-<img src="images/porã.png?raw=true"/>
+[Porã, quem sou eu?](https://swehtam.itch.io/pora)
+<a href="https://swehtam.itch.io/pora">
+  <img src="images/porã.png?raw=true"/>
+</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
