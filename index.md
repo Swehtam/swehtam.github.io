@@ -10,12 +10,16 @@
 </a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Nidavellir](https://orion-games.itch.io/nidavellir)
+<a href="https://orion-games.itch.io/nidavellir">
+  <img src="images/nidavellir.png?raw=true"/>
+</a>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sh*t is Gettin' Real](https://swehtam.itch.io/sht-is-getting-real)
+<a href="https://swehtam.itch.io/sht-is-getting-real">
+  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+</a>
 
 ---
 
