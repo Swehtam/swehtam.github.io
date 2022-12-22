@@ -10,6 +10,12 @@
 </a>
 
 ---
+[Cinética Quimica](https://swehtam.itch.io/cinetica-quimica)
+<a href="https://swehtam.itch.io/cinetica-quimica">
+  <img src="images/nidavellir.png?raw=true"/>
+</a>
+
+---
 [Nidavellir](https://orion-games.itch.io/nidavellir)
 <a href="https://orion-games.itch.io/nidavellir">
   <img src="images/nidavellir.png?raw=true"/>
