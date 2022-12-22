@@ -12,7 +12,7 @@
 ---
 [Cinética Quimica](https://swehtam.itch.io/cinetica-quimica)
 <a href="https://swehtam.itch.io/cinetica-quimica">
-  <img src="images/nidavellir.png?raw=true"/>
+  <img src="images/cinetica_quimica.png?raw=true"/>
 </a>
 
 ---
