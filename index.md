@@ -5,8 +5,8 @@
 ### Jogos
 
 [Underground Rebellion](https://plbc.itch.io/underground-rebellion)
-<a href="https://swehtam.itch.io/pora">
-  <img src="images/porã.png?raw=true"/>
+<a href="https://plbc.itch.io/underground-rebellion">
+  <img src="images/underground_rebellion.png?raw=true"/>
 </a>
 
 [Porã, quem sou eu?](https://swehtam.itch.io/pora)
