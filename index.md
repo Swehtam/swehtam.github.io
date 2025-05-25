@@ -1,13 +1,21 @@
-## Portfolio
+### Skills
 
----
+| **Languages**      | **Engines / Frameworks**         | **Tools**                            | **Fields**         |
+|--------------------|----------------------------------|--------------------------------------|--------------------|
+| C#                 | Unity                            | Git & Github / GitLab                | Gameplay           |
+| Python             | Godot                            | Trello                               | Scripting          |
+| GDScript           | Inform 7                         | Azure                                | Game Design        |
+| JavaScript         | Node.js                          | SQL Database                         | Engine             |
+| Ruby               | Django                           | Amazon Web Services                  | Player Experience  |
+| HTML5 & CSS3       | ASP.NET Core                     | Oracle Services                      |                    |
 
-### Jogos
+### Featured Projects
 
 [Underground Rebellion](https://plbc.itch.io/underground-rebellion)
 <a href="https://plbc.itch.io/underground-rebellion">
   <img src="images/underground_rebellion.png?raw=true"/>
 </a>
+<p> <b>Underground Rebellion</b> is a 2D platform game, developed for PC, where the player must defeat his enemies stealthily or parry their attacks to tire them out, combining simple but challenging platforming. I worked as a Teach Leader, in a group of 4 people, on this university project, where our goal was to develop a 2D game. I developed the game's enemy AI, the narrative system, the scoring system and did the team's code review.</p>
 
 [Porã, quem sou eu?](https://swehtam.itch.io/pora)
 <a href="https://swehtam.itch.io/pora">
