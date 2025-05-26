@@ -18,7 +18,7 @@
     <div class="game-text">
         <a href="https://plbc.itch.io/underground-rebellion">Undreground Rebellion</a>
         <p>
-        <b>Underground Rebellion</b> is a 2D platform game, developed for PC, where the player must defeat his enemies stealthily or parry their attacks to tire them out, combining simple but challenging platforming. I worked as a Teach Leader, in a group of 4 people, on this university project, where our goal was to develop a 2D game. I developed the game's enemy AI, the narrative system, the scoring system and did the team's code review.
+        <b>Underground Rebellion</b> is a 2D platform game, developed for PC, where the player must defeat his enemies stealthily or parry their attacks to tire them out, combined with simple but challenging platforming. I worked as a Tech Leader and Project Manager, also I developed the game's enemies AI, the narrative system, the scoring system and did the team's code review.
         </p>
     </div>
 </div>
