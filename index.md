@@ -9,6 +9,8 @@
 | Ruby               | Django                           | Amazon Web Services                  | Player Experience  |
 | HTML5 & CSS3       | ASP.NET Core                     | Oracle Services                      |                    |
 
+---
+
 ### Featured Projects
 
 <div class="game-item">
