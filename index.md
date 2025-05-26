@@ -71,8 +71,8 @@
 
 ### Background
 
-I'm a game designer and gameplay developer, currently based in Aveiro, Portugal. I'm a student at the University of Aveiro doing a Master's degree in Digital Game Development. During my master's degree, I was able to develop a 2D platform game with a group of colleagues from different areas. And now I'm working on my first 3D game, which is also for VR consoles. Furthermore, I'm graduated in Bachelor of Computer Science at the Federal University of Paraíba in Brazil, where I developed a serious game on my own for my final project.
+I'm a **game designer and gameplay developer**, currently based in **Aveiro, Portugal**. I'm a student at the University of Aveiro doing a **Master's degree in Digital Game Development**. During my master's degree, I was able to develop a 2D platform game with a group of colleagues from different areas. And now I'm working on my first 3D game, which is also for VR consoles. Furthermore, I'm graduated in **Bachelor of Computer Science** at the Federal University of Paraíba in Brazil, where I developed a serious game on my own for my final project.
 
 As a game developer, I take a lot of joy in being able to work on new projects, because it forces me to improve my skills, study new technologies and new aproaches to solve problems and work with new people, allowing me to keep growing. My passion truly lies in game development and game desing. I love being able to design and develop interactive experiences that can be enjoyed globally by a wide-range of different audiences.
 
-I'm always available for interesting projects to work on, so if you think that's you, send me an email!
+**I'm always available for interesting projects to work on, so if you think that's you, send me an email!**
