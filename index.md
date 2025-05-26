@@ -11,13 +11,13 @@
 
 ### Featured Projects
 
-<div style="display: flex; align-items: flex-start; max-width: 900px; margin: 20px auto; gap: 20px; font-family: Arial, sans-serif;">
+<div class="game-item">
     <a href="https://plbc.itch.io/underground-rebellion">
-      <img src="images/underground_rebellion.png?raw=true" style="width: 400px; height: auto; border-radius: 6px;">
+      <img src="images/underground_rebellion.png?raw=true">
     </a>
-    <div style="max-width: 450px;">
-      <a href="https://plbc.itch.io/underground-rebellion" style="font-size: 1.3em; font-weight: bold; color: #333; text-decoration: none;">Undreground Rebellion</a>
-      <p style="margin-top: 10px; line-height: 1.5; color: #555;">
+    <div class="game-text">
+      <a href="https://plbc.itch.io/underground-rebellion">Undreground Rebellion</a>
+      <p>
         <b>Underground Rebellion</b> is a 2D platform game, developed for PC, where the player must defeat his enemies stealthily or parry their attacks to tire them out, combining simple but challenging platforming. I worked as a Teach Leader, in a group of 4 people, on this university project, where our goal was to develop a 2D game. I developed the game's enemy AI, the narrative system, the scoring system and did the team's code review.
       </p>
     </div>
