@@ -15,6 +15,20 @@
 ### Featured Projects
 
 <div class="game-item">
+    <a href="https://www.youtube.com/watch?v=gWmr5IJRZf8">
+        <img src="images/Bake em Up.png?raw=true">
+    </a>
+    <div class="game-text">
+        <a href="https://www.youtube.com/watch?v=gWmr5IJRZf8">Bake 'Em Up!</a>
+        <p>
+        <b>Bake 'Em Up</b> is a survival/cooking simulator game, developed for VR, the player is a cat baker who owns a bakery food truck. Your goal is to protect your food truck and you life defeating the zombies, with the breads you're simultaneously baking, where ach bread has a unique power. This is a university project that I'm working with my team, which is not finished yet, but you can see a demo for the Alpha version. In this project I'm working as a Tech Leader and I also developed the cooking simulator system and the narrative system.
+        </p>
+    </div>
+</div>
+
+---
+
+<div class="game-item">
     <a href="https://plbc.itch.io/underground-rebellion">
         <img src="images/underground_rebellion.png?raw=true">
     </a>
