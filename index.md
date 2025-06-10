@@ -16,7 +16,7 @@
 
 <div class="game-item">
     <a href="https://www.youtube.com/watch?v=gWmr5IJRZf8">
-        <img src="images/Bake em Up.png?raw=true">
+        <img src="images/Bake Em Up.png?raw=true">
     </a>
     <div class="game-text">
         <a href="https://www.youtube.com/watch?v=gWmr5IJRZf8">Bake 'Em Up!</a>
