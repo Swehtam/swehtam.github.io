@@ -16,7 +16,7 @@
 
 <div class="game-item">
     <a href="https://rafinha-uwu.itch.io/bake-em-up">
-        <img src="images/Bake Em Up.png?raw=true" alt="Bake 'Em Up">
+        <img src="images/Bake Em Up.gif" alt="Bake 'Em Up">
     </a>
     <div class="game-text" style="max-width: 250px;">
         <a href="https://rafinha-uwu.itch.io/bake-em-up">Bake 'Em Up!</a>
