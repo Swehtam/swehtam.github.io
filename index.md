@@ -113,13 +113,13 @@ layout: default
   <div class="skill-group">
     <h3>Languages</h3>
     <ul class="tags">
-      <li>C#</li><li>Python</li><li>GDScript</li><li>JavaScript</li><li>Ruby</li><li>HTML5 &amp; CSS3</li>
+      <li>C#</li><li>Python</li><li>JavaScript</li>
     </ul>
   </div>
   <div class="skill-group">
     <h3>Engines &amp; Frameworks</h3>
     <ul class="tags">
-      <li>Unity</li><li>Godot</li><li>Inform 7</li><li>Node.js</li><li>Django</li><li>ASP.NET Core</li>
+      <li>Unity</li><li>Godot</li><li>Inform 7</li><li>Node.js</li><li>ASP.NET Core</li>
     </ul>
   </div>
   <div class="skill-group">
@@ -145,13 +145,13 @@ layout: default
   </li>
   <li>
     <strong>Bachelor's in Computer Science</strong>
-    <span>Federal University of Paraíba, Brazil</span>
+    <span>Federal University of Paraíba, Brazil · 2022</span>
   </li>
 </ul>
 
 <div class="section-text" markdown="1">
 
-I'm a **game designer and gameplay developer** based in **Aveiro, Portugal**. During my Master's I worked in multidisciplinary teams on a 2D platformer and on my first 3D game, built for VR. Before that, I developed a serious game on my own as my Bachelor's final project.
+I'm a **game designer and gameplay developer** based in **Aveiro, Portugal**. During my master's degree, I worked in multidisciplinary teams on various projects, including: a 2D platform game, my first 3D game developed for virtual reality, a serious 2D game, and a text-based adventure game. Before that, I developed a serious game on my own as my Bachelor's final project.
 
 What I enjoy most about game development is that every project pushes me to learn: new technologies, new ways to solve problems and new people to work with. I love designing and building interactive experiences that can be enjoyed by a wide range of players.
 
