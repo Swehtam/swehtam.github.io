@@ -2,81 +2,41 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    <style>
-      .game-item {
-        display: flex;
-        align-items: flex-start;
-        max-width: 900px;
-        margin: 20px auto;
-        gap: 20px;
-        font-family: Arial, sans-serif;
-      }
-  
-      .game-item img {
-        width: 700;
-        height: auto;
-        border-radius: 6px;
-      }
-  
-      .game-text {
-        max-width: 150px;
-      }
-  
-      .game-text a {
-        font-size: 1.3em;
-        font-weight: bold;
-        color: #333;
-        text-decoration: none;
-      }
-  
-      .game-text p {
-        margin-top: 10px;
-        line-height: 1.5;
-        color: #555;
-      }
-    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/assets/css/portfolio.css" | relative_url }}">
   </head>
   <body>
-    <div class="wrapper" style="width:1160px;">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+    <div class="page">
+
+      <aside class="sidebar">
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" width="200" height="200"/>
+          <img class="avatar" src="{{ site.logo | relative_url }}" alt="Photo of {{ site.title }}">
         {% endif %}
+        <h1 class="name"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+        <p class="role">{{ site.role }}</p>
+        <p class="location">{{ site.location }}</p>
+        <p class="bio">{{ site.description }}</p>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <nav class="links">
+          {% if site.email %}<a class="btn btn-primary" href="mailto:{{ site.email }}">Email me</a>{% endif %}
+          {% if site.linkedin %}<a class="btn" href="{{ site.linkedin }}">LinkedIn</a>{% endif %}
+          {% if site.itchio %}<a class="btn" href="{{ site.itchio }}">itch.io</a>{% endif %}
+          {% if site.github %}<a class="btn" href="{{ site.github }}">GitHub</a>{% endif %}
+        </nav>
+      </aside>
 
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-      </header>
-      <section style="width:800px;">
+      <main class="content">
+        {{ content }}
 
-      {{ content }}
+        <footer class="footer">
+          &copy; {{ "now" | date: "%Y" }} {{ site.title }}
+        </footer>
+      </main>
 
-      </section>
-      <footer>
-      </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
   </body>
 </html>
